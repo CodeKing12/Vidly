@@ -26,9 +26,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = ')oz2-bq8me#l5kwut-5eo-h2i)6)stnb%qb(am0c_ia4b$$==*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "quiet-sierra-10221.herokuapp.com"
+]
 
 
 # Application definition
