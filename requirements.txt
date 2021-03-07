@@ -1,34 +1,41 @@
 asgiref==3.2.10
-async-generator==1.10
+certifi==2020.11.8
+conda==4.9.2
+conda-package-handling @ file:///C:/ci/conda-package-handling_1603003327818/work
 dj-database-url==0.5.0
 Django==3.1
 django-heroku==0.3.1
 django-tastypie==0.14.3
+entrypoints==0.3
 filelock==3.0.12
-Gooey==1.0.8
 gunicorn==20.0.4
 heroku==0.1.4
+ipykernel
+ipython
+ipython-genutils
+jedi
 Jinja2==2.11.2
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
-python-dateutil==2.8.1
-sqlparse==0.4.1
-whitenoise==5.2.0
-psycopg2==2.8.6
+jsonschema
+pipenv==2020.11.15
+psutil
 psycopg2==2.8.6
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+pycparser
+Pygments
 pygtrie==2.4.2
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1606517880428/work
+pyOpenSSL
 pyparsing==2.4.7
-pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
-PySimpleGUI==4.33.0
-PySocks @ file:///C:/ci/pysocks_1605287845585/work
+PySocks
 python-dateutil==2.8.1
 python-mimeparse==1.6.0
-pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+pytz
 pywin32==227
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==20.0.0
 QtPy==1.9.0
+sqlparse==0.4.1
+virtualenv==20.2.1
+virtualenv-clone==0.5.4
+webencodings==0.5.1
+whitenoise==5.2.0
