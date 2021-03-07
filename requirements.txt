@@ -1,7 +1,5 @@
 asgiref==3.2.10
 certifi==2020.11.8
-conda==4.9.2
-conda-package-handling @ file:///C:/ci/conda-package-handling_1603003327818/work
 dj-database-url==0.5.0
 Django==3.1
 django-heroku==0.3.1
