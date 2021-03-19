@@ -5,5 +5,5 @@ app_name = "Movies"
 
 urlpatterns = [
     path("", views.index, name="index"),
-    path("<int:movies_id>", views.details, name="detail")
+    path("<int:movies_id>", views.details, name="detail"),
 ]
